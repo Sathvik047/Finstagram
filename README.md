@@ -25,6 +25,11 @@ Redux for state management
 Firebase for authentication
 
 
+# What I learnt from this ?
+
+This project has been an incredible learning experience. Through building the Instagram-like interface, I enhanced my skills in creating React components, managing states, and applying CSS for UI design. Additionally, creating the authentication system allowed me to explore the integration of Redux and Firebase, gaining insights into user authentication workflows and error handling.
+
+
 
 
 
