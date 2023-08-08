@@ -1,3 +1,28 @@
+# Key Features:
+
+Designed a user-friendly Instagram-like interface with a header, footer, and image grid.
+
+Implemented component-based architecture to organize the codebase effectively.
+
+Styled the components using CSS to achieve a modern and visually appealing design.
+
+Displayed images in a grid format, simulating a social media feed.
+
+Created a fully functional authentication system with features like user signup and login.
+
+Utilized Redux for state management, enhancing the overall user experience.
+
+Configured Firebase Authentication for secure and seamless user authentication.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
