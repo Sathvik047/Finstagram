@@ -15,6 +15,7 @@ Utilized Redux for state management, enhancing the overall user experience.
 Configured Firebase Authentication for secure and seamless user authentication.
 
 
+
 # Technologies Used:
 
 ReactJS
